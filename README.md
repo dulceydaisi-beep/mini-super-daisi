@@ -64,18 +64,25 @@ Incluye capturas de:
 
 Pantalla de inicio de sesión
 
+
 <img width="482" height="430" alt="Captura de pantalla 2025-10-28 230606" src="https://github.com/user-attachments/assets/4e5e1777-6b0c-4aa1-9eff-677a81f875a7" />
 
 
 Menú principal
+
+
 <img width="735" height="619" alt="Captura de pantalla 2025-10-28 231119" src="https://github.com/user-attachments/assets/651e6f5f-697a-4c12-9e9c-0be387cfcd1f" />
 
 
 Ventana de productos
+
+
 <img width="983" height="410" alt="Captura de pantalla 2025-10-28 231239" src="https://github.com/user-attachments/assets/a45dacc8-4633-494e-932c-83595d4ea140" />
 
 
 Ventas y reporte PDF
+
+
 <img width="484" height="361" alt="Captura de pantalla 2025-10-28 235111" src="https://github.com/user-attachments/assets/60f06689-9cc1-4a7d-8a47-58e697bd2f99" />
 
 🧩 Tecnologías utilizadas
